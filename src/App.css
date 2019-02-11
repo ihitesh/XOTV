@@ -5,7 +5,7 @@
 .container
 {
   display: flex;
-  height: 700px
+  height: 600px
 }
 .sideBar
 {
@@ -94,9 +94,9 @@ margin: 0 auto;
   color: red;
 }
 
-@media screen and (max-height: 750px) {
+@media screen and (max-height: 650px) {
   .container
   {
-    height: 500px;
+    height: 400px;
   }
 }
