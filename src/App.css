@@ -97,6 +97,6 @@ margin: 0 auto;
 @media screen and (max-height: 650px) {
   .container
   {
-    height: 400px;
+    height: 500px;
   }
 }
